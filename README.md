@@ -1,4 +1,4 @@
-# one-challenge-secret-friend
+# Challenge Amigo Secreto
 
 Este repositorio se hace para el primer Challenge de Oracle Next Education.
 
